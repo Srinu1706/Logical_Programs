@@ -10,4 +10,5 @@ public class Amstrong_Number {
         }
         System.out.println(temp==sum?"Yes its Amstrong":"no its not amstrong");
     }
+
 }

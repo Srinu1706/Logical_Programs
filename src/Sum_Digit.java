@@ -8,6 +8,7 @@ public class Sum_Digit {
             sum=sum+digit;
             Number=Number/10;
         }
+
         System.out.println(sum);
        int temp=sum;
        int fsum=0;
